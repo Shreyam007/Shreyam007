@@ -48,12 +48,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Shreyam007&show_icons=true&theme=tokyonight&cache_seconds=1800" 
-    alt="GitHub Stats" 
-  />
-</p>
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=Shreyam007&theme=dark)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shreyam007&layout=compact&theme=dark)
 
 <p align="center">
   <img 
