@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyam Pandey</h1>
-<h3 align="center">Aspiring Software Engineer | Web Developer 🚀</h3>
+<h3 align="center">Aspiring Software Engineer | Web Developer </h3>
 
 <p align="center">
   <a href="https://dxzkvixy0ufv.trickle.host/">
