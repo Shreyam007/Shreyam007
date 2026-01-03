@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shreyam Pandey</h1>
+<h3 align="center">Aspiring Software Engineer | Web Developer</h3>
 
-<!--
-**Shreyam007/Shreyam007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 2nd Year B.Tech CSE Student
+- 💻 Frontend Developer (HTML, CSS, JavaScript)
+- 🌱 Currently learning **JavaScript deeply & Full-Stack**
+- 🧠 Interested in **AI + Web + Automation**
+- 🏆 Open Source Contributor (SWOC 2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+**Frontend:** HTML, CSS, JavaScript  
+**Programming:** C, C++, Python  
+**Tools:** Git, GitHub, VS Code, Figma  
+**Currently Learning:** React, Backend, APIs  
+
+---
+
+### 📌 Featured Projects
+- 🌐 **Portfolio Website** – Modern UI with animations  
+- 🎴 **3D Name Card** – CSS 3D transforms  
+- 🖼 **3D Website Slider** – Interactive UI effects  
+
+---
+
+### 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Shreyam007&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyam007&layout=compact&theme=tokyonight)
+
+---
+
+### 🤝 Connect With Me
+- 🌐 Portfolio: https://zdxzkvxy0ufv.trickle.host/
+- 📧 Email: p.shreyambbk@gmail.com
