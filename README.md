@@ -46,15 +46,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=Shreyam007&theme=dark)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shreyam007&layout=compact&theme=dark)
-
-## 📈 Contribution Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyam007&theme=tokyo-night)
+- Actively building projects and contributing consistently  
+- Focused on **clean code, automation, and system design**  
+- GitHub statistics temporarily unavailable due to upstream service downtime
 
 ---
 
