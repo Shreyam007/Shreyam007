@@ -37,3 +37,12 @@
 ### 🤝 Connect With Me
 - 🌐 Portfolio: https://zdxzkvxy0ufv.trickle.host/
 - 📧 Email: p.shreyambbk@gmail.com
+
+
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql,python,c,cpp&theme=dark" />
+</p>
+
