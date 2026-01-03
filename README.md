@@ -52,12 +52,9 @@
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shreyam007&layout=compact&theme=dark)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyam007&layout=compact&theme=tokyonight&cache_seconds=1800" 
-    alt="Top Languages" 
-  />
-</p>
+## 📈 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreyam007&theme=tokyo-night)
 
 ---
 
