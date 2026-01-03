@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | Web Developer 🚀</h3>
 
 <p align="center">
-  <a href="https://zdxzkvxy0ufv.trickle.host/">
+  <a href="https://dxzkvixy0ufv.trickle.host/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
   </a>
   <a href="mailto:p.shreyambbk@gmail.com">
@@ -59,11 +59,11 @@
 ---
 
 ## 🤝 Let's Connect
-- 🌐 Portfolio: https://zdxzkvxy0ufv.trickle.host/
+- 🌐 Portfolio: https://dxzkvixy0ufv.trickle.host/
 - 📧 Email: p.shreyambbk@gmail.com
 
 ---
 
 <p align="center">
-  💡 “Learning every day. Building step by step.”
+    “Learning every day. Building step by step.”
 </p>
