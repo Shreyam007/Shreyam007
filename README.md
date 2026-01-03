@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | Web Developer 🚀</h3>
 
 <p align="center">
-  <a href="https://zdxzkvxy0ufv.trickle.host/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"></a>
+  <a href="https://dxzkvixy0ufv.trickle.host/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"></a>
   <a href="mailto:p.shreyambbk@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"></a>
 </p>
 
