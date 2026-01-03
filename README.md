@@ -2,8 +2,16 @@
 <h3 align="center">Aspiring Software Engineer | Web Developer 🚀</h3>
 
 <p align="center">
-  <a href="https://dxzkvixy0ufv.trickle.host/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"></a>
-  <a href="mailto:p.shreyambbk@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"></a>
+  <a href="https://zdxzkvxy0ufv.trickle.host/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge">
+  </a>
+  <a href="mailto:p.shreyambbk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=550&lines=Web+Developer;JavaScript+Enthusiast;Open+Source+Contributor;Future+Software+Engineer" />
 </p>
 
 ---
@@ -26,10 +34,15 @@
 ---
 
 ## 📌 Featured Projects
-- 🌐 **Portfolio Website** – Modern UI, animations, responsive design
-- 🎴 **3D Name Card** – CSS 3D transforms & hover effects
-- 🎞 **3D Website Slider** – Interactive frontend UI
-- 📄 **Resume Website** – Clean & professional layout
+
+- 📚 **Study Buddy**  
+  A platform to find and connect with study partners based on subjects, availability, and preferences.
+
+- 🔄 **File Converter**  
+  A utility web app to convert files between different formats with a clean and simple UI.
+
+- 🚧 **Full-Stack Extension Project** *(In Progress)*  
+  A browser extension built using full-stack technologies — **coming soon** 🚀
 
 ---
 
